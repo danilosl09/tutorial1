@@ -1,2 +1,3 @@
-- aqui estou escrevendo pelo VSCode
-- Aqui estou escrevendo pelo NotePad
+- aqui estou escrevendo pelo VSCode.
+- Aqui estou escrevendo pelo NotePad.
+- Aqui estou escrevendo pelo GitHub.
